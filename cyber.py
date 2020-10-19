@@ -6,7 +6,7 @@ index=1
 
 
 key = ["firewall","phishing Attack","RAT","RAT","internet","VPN","APN","DDos Attack","Carding","Tail os","Dark net","vires","kali Linux","hosting","server","database","ip address",
-"clints & servers","git hub","RDP","anti-vires","Vulnerability","http","https","SSL","URL","Keystroke logging","Metasploit","NMAP"]
+"clints & servers","git hub","RDP","anti-vires","Vulnerability","http","https","SSL","URL","Keystroke logging","Metasploit","NMAP","BIN","NETFLIX","nord VPN"," CC Generator","block chain","cryptocurrency","google SEO","anonymous in hacking","SQL","SQL injections","steganography","Man In The Middle Attacks "]
 
 qus = []
 c=5
